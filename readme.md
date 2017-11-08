@@ -4,7 +4,7 @@
 
 [Carbon](https://github.com/briannesbitt/Carbon) is awesome. Immutable carbon is just a little bit more awesome. An attempt to make the Carbon date library immutable. It is simply a wrapper class around the `Carbon\Carbon` class so you can just use it as if you were using the actual class. Just keep in mind that it is immutable - thus you can no longer set values by calling `$instance->property = 'whatever'`.
 
-Ya welcome.
+This was a project to attempt to make Carbon immutable - but you should probably check out [Chronos](https://github.com/cakephp/chronos).
 
 ## Installation
 
