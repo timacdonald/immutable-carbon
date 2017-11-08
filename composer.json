@@ -1,5 +1,5 @@
 {
-    "name": "immutable-carbon/carbon",
+    "name": "timacdonald/immutable-carbon",
     "description": "This is an attempt to make the Carbon date library immutable",
     "keywords": [
         "date",
